@@ -1,4 +1,5 @@
 Finance-Based CSV Chatbot
+
 This chatbot is specifically designed for querying financial data stored in CSV files. It dynamically ingests data and allows users to ask contextual questions.
 
 Features:
